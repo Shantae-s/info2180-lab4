@@ -1,0 +1,28 @@
+h1  {
+    background-color:aquamarine;
+    padding:  35px;
+    text-align: center;
+    color: darkgrey;
+}
+
+p#searchSent{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    color: black;
+}
+p{
+    color: red;
+    font-weight: 200px;
+}
+
+input{
+    width: 500px;
+}
+button{
+    background-color: red;
+    color: white;
+}
+div.header{
+    padding-left: 50px;
+    padding-right: 50px;
+}
